@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Christmas Gift Box",
-  description: "Merry Christman and a Happy New Year, 2026!",
+  description: "Merry Christmas and a Happy New Year, 2026!",
 };
 
 export default function RootLayout({
