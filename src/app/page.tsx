@@ -161,7 +161,7 @@ export default function ChristmasApp() {
                 <h2 className="text-lg sm:text-2xl font-bold text-green-700 leading-tight">
                   Merry Christmas,
                 </h2>
-                <h3 className="text-3xl sm:text-5xl md:text-6xl font-black text-red-800 my-2 sm:my-4 break-words uppercase tracking-tighter">
+                <h3 className="text-3xl sm:text-5xl md:text-6xl font-black text-red-800 my-2 sm:my-4 wrap-break-word uppercase tracking-tighter">
                   {userName}!
                 </h3>
                 <p className="text-lg sm:text-2xl text-green-800 font-bold mb-6 leading-tight">
